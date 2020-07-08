@@ -1,9 +1,9 @@
 ## Computer Science
 
-### Operating System
+### [Data Structures](https://github.com/JuHyeon-Lee/CS/tree/master/Data Structures)
 
-### Data Structures
+### [Database](https://github.com/JuHyeon-Lee/CS/tree/master/Database)
 
-### Database
+### [Network](https://github.com/JuHyeon-Lee/CS/tree/master/Network)
 
-### Network
+### [Operating System](https://github.com/JuHyeon-Lee/CS/tree/master/Operating System)
