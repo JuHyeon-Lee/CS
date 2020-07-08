@@ -6,6 +6,7 @@
 
 
 
+
 ## Application Layer (Layer 4)
 
 ### HTTP & HTTPS
@@ -17,6 +18,7 @@
 ### Domain Name System (DNS)
 
 ### Peer-to-Peer Network (P2P Network)
+
 
 
 
@@ -38,6 +40,7 @@
 
 
 
+
 ## Internet Layer (Layer 2)
 
 ### Virtual Circuit & Datagram Networks
@@ -49,6 +52,7 @@
 ### Intra-AS Routing (RIP, OSPF, BGP)
 
 ### Broadcast & Multicast Routing
+
 
 
 
