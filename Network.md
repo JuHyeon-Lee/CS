@@ -1,8 +1,10 @@
+# Network
+
+
+
 ## Network Model
 
 ### [OSI Model & TCP/IP Model](https://ju-hy.tistory.com/109)
-
-
 
 
 
@@ -22,8 +24,6 @@
 
 
 
-
-
 ## Transport Layer (Layer 3)
 
 ### Multiplexing & Demultiplexing
@@ -39,8 +39,6 @@
 
 
 
-
-
 ## Internet Layer (Layer 2)
 
 ### Virtual Circuit & Datagram Networks
@@ -52,8 +50,6 @@
 ### Intra-AS Routing (RIP, OSPF, BGP)
 
 ### Broadcast & Multicast Routing
-
-
 
 
 

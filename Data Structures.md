@@ -1,3 +1,5 @@
+# Data Structures
+
 ### [1. Array & Linked List](https://ju-hy.tistory.com/83)
 
 ### [2. Queue & Stack](https://ju-hy.tistory.com/84)

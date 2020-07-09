@@ -1,4 +1,4 @@
-## Computer Science
+## INDEX
 
 ### [Data Structures](https://github.com/JuHyeon-Lee/CS/blob/master/Data%20Structures.md)
 
