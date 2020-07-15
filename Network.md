@@ -13,7 +13,7 @@
 
 ### [HyperText Transfer Protocol (HTTP)](https://ju-hy.tistory.com/110)
 
-### File Transfer Protocol (FTP)
+### [File Transfer Protocol (FTP)](https://ju-hy.tistory.com/111)
 
 ### Electronic Mail (SMTP, POP3, IMAP)
 
