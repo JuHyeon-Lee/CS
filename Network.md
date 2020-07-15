@@ -11,7 +11,7 @@
 
 ## Application Layer (Layer 4)
 
-### HTTP & HTTPS
+### [HyperText Transfer Protocol (HTTP)](https://ju-hy.tistory.com/110)
 
 ### File Transfer Protocol (FTP)
 
