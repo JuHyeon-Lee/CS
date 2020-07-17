@@ -15,7 +15,7 @@
 
 ### [File Transfer Protocol (FTP)](https://ju-hy.tistory.com/111)
 
-### Electronic Mail (SMTP, POP3, IMAP)
+### [Electronic Mail (SMTP, POP3, IMAP / MIME)](https://ju-hy.tistory.com/112)
 
 ### Domain Name System (DNS)
 
