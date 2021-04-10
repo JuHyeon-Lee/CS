@@ -1,5 +1,7 @@
 ## INDEX
 
+### [Algorithms](https://github.com/JuHyeon-Lee/CS/blob/master/Algorithms.md)
+
 ### [Data Structures](https://github.com/JuHyeon-Lee/CS/blob/master/Data%20Structures.md)
 
 ### [Database](https://github.com/JuHyeon-Lee/CS/blob/master/Database.md)
