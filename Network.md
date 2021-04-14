@@ -19,6 +19,8 @@
 
 ### Domain Name System (DNS)
 
+### Dynamic Host Configuration Protocol (DHCP)
+
 ### Peer-to-Peer Network (P2P Network)
 
 
